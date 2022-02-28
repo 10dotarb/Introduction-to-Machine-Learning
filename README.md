@@ -1,2 +1,2 @@
-# Introduction-to-Machine-Learning
-The content of this section belongs to the Coursera. These are my solutions to the assignments for different courses in my specialisation in ML.
+# Clustering and Retrieval
+The content of this section belongs to the Coursera. The assignments are taken from the course on clustering and retrieval (ML) under the specialisation.
